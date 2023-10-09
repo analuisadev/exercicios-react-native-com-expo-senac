@@ -1,5 +1,6 @@
-import Counter from './components/counter';
+import Counter from "./src/components/counter";
+import Routes from "./src/routes";
 
 export default function App() {
-  return <Counter title='Meu Contador'/>
+  return <Routes />
 }
