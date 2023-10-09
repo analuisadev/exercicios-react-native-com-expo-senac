@@ -47,25 +47,30 @@ const styles = StyleSheet.create({
         alignItems: "center",
         backgroundColor: "#fff",
     },
+
     title: {
         fontSize: 24,
         fontWeight: "bold",
         marginBottom: 20,
     },
+
     counterText: {
         fontSize: 36,
         fontWeight: "bold",
     },
+
     buttonContainer: {
         flexDirection: "row",
         marginTop: 20,
     },
+
     button: {
         backgroundColor: "#007AFF",
         borderRadius: 5,
         padding: 10,
         marginHorizontal: 10,
     },
+    
     buttonText: {
         color: "#fff",
         fontSize: 16,
